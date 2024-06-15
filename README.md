@@ -1,20 +1,20 @@
 ---
 
-# hand-tracking-project
+# hand-detection-project
 
-This project implements a real-time hand detection system using Python, leveraging MediaPipe's robust hand tracking solution and OpenCV for video capture and visualization. The system accurately identifies and tracks hand landmarks.
+This project implements a real-time hand detection system using Python, leveraging MediaPipe's robust hand detecting solution and OpenCV for video capture and visualization. The system accurately identifies and detects hand landmarks.
 
 # Features
 
 - **Hand Detection and Tracking**: Detects and tracks 21 hand landmarks in real-time.
-- **Real-Time Performance**: Efficient processing ensures smooth and responsive hand tracking.
+- **Real-Time Performance**: Efficient processing ensures smooth and responsive hand detection.
 
 # Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/CyberBoy-Mayank/hand-tracking-project.git
-    cd hand-tracking-project
+    git clone https://github.com/CyberBoy-Mayank/hand-detection-project.git
+    cd hand-detection-project
     ```
 
 2. Install the required dependencies:
@@ -37,7 +37,7 @@ This project implements a real-time hand detection system using Python, leveragi
 
 # Benefits
 
-- **High Accuracy**: Utilizes MediaPipe's advanced hand tracking model for precise landmark detection.
+- **High Accuracy**: Utilizes MediaPipe's advanced hand detection model for precise landmark detection.
 - **Real-Time Processing**: Ensures smooth and responsive hand detection suitable for interactive applications.
 - **Extensible**: Easily customizable to include additional features such as custom gesture recognition.
 - **User-Friendly**: Simple to set up and use, making it accessible for both beginners and advanced users.
